@@ -1,7 +1,5 @@
 # Bash exercise - Slide 18
 
-Mini exercise to learn shell and bash scripting (OOP course, AIDAMS 2A).
-
 ## Part 1 - Shell setup
 - Shell in use: bash (`echo $0` gives `-bash`), login shell: `/bin/bash` (`echo $SHELL`)
 - Framework: Oh My Bash, theme `brainy`
